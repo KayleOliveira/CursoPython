@@ -5,4 +5,3 @@ n2 = int(input('segundo número: '))
 soma = int((n1 + n2))
 
 print('soma: {}'.format(soma))
-    
